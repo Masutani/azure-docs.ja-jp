@@ -76,13 +76,13 @@ U-SQL 用の Python 拡張機能では、開発者が Python コードの膨大�
 * 文字列以外の U-SQL データセットの列名。 
 
 ### <a name="python-versions"></a>Python のバージョン
-Python 3.5.1 (Windows 用にコンパイル) のみサポートされています。 
+Python 3.5.1 (Windows 用) のみサポートされています。 
 
 ### <a name="standard-python-modules"></a>標準的な Python モジュール
 すべての標準的な Python モジュールが含まれます。
 
 ### <a name="additional-python-modules"></a>追加の Python モジュール
-標準的な Python ライブラリのほかにも、一般的に使用される Python ライブラリの一部が含まれます。
+標準的な Python ライブラリのほかにも、以下の一般的に使用される一部の Python ライブラリが含まれます。
 
     pandas
     numpy
