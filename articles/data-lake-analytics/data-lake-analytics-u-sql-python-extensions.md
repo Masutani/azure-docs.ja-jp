@@ -20,6 +20,15 @@ ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 11/28/2017
 ---
+
+# 前提条件
+
+このチュートリアルを始める前に、あなたのAzure Data Lake Analyticsアカウントで、以下の手順にてPython 拡張機能を有効にする必要があります。
+
+* Azure ポータルで、Data Lake Analyticsアカウントを表示します。
+* 左のメニューで「作業の開始」から「サンプルスクリプト」をクリックします。
+* 上のメニューで「U-SQL Extensionsをインストールする」クリックしてOKします。
+
 # <a name="tutorial-get-started-with-extending-u-sql-with-python"></a>チュートリアル: Python を使用して U-SQL の拡張を始める
 
 U-SQL 用の Python 拡張機能では、開発者が Python コードの膨大な並列実行を実行できるようにします。 基本的な手順を以下の例で示します。
